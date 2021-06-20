@@ -114,6 +114,6 @@ catalog:
       rules:
         - allow: [Template]
     - type: url
-      target: https://github.com/udanam/uzi-backstage/blob/master/templates/template.yaml
+      target: /templates/template.yaml
       rules:
         - allow: [Template] 

@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[2],{827:function(n,r,o){"use strict";o.r(r);o(3);var t=o(610);o.d(r,"LatestWorkflowRunCard",(function(){return t.b})),o.d(r,"LatestWorkflowsForBranchCard",(function(){return t.c})),o.d(r,"RecentWorkflowRunsCard",(function(){return t.d}));o(215),o(0),o(12),o(10)}}]);
+//# sourceMappingURL=2.4e996a94.chunk.js.map

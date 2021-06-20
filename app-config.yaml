@@ -113,3 +113,7 @@ catalog:
       target: https://github.com/backstage/backstage/blob/master/plugins/scaffolder-backend/sample-templates/docs-template/template.yaml
       rules:
         - allow: [Template]
+  #  - type: url
+  #     target: https://github.com/udanam/uzi-backstage/blob/master/templates/template.yaml
+  #     rules:
+  #       - allow: [Template] 
